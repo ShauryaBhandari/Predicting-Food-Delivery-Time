@@ -1,7 +1,7 @@
-# Predicting-Food-Delivery: An online hackathon by IMS Proschool
+# Food Delivery Time Prediction System
 
 Problem Statement: 
-In this hackathon, we are providing you with data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data scientists, your goal is to predict the online order delivery time based on the given factors.
+We are providing you with data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data scientists, your goal is to predict the online order delivery time based on the given factors.
 Analytics India Magazine and IMS Proschool bring to you ‘Predicting Predicting Food Delivery Time Hackathon’.
 
 Size of training set: 11,094 records
